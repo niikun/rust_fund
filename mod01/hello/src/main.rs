@@ -1,5 +1,6 @@
-use std::io;
+mod test01;
+
 
 fn main() {
-    println!("Hello, world!");
+    test01::run();
 }
